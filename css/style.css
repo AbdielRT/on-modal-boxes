@@ -1,0 +1,26 @@
+.titulo {
+  text-align: center;
+  font-family: sans-serif;
+}
+div {
+  border: solid 2px;
+  padding: 10px;
+}
+
+.slide {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.foto {
+  display: flex;
+  justify-content: center;
+  flex: 1 0 21%;
+  margin: 5px;
+  width: 40px;
+  height: 60px;
+/*  flex-direction: row; */
+  flex-wrap: 
+/*  justify-content: center;
+}
